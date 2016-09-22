@@ -1,0 +1,1 @@
+# magemirror-raspberrypi-config
